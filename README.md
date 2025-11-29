@@ -1,6 +1,5 @@
 2nd bootloader for Nexell s5pxx18 series SoC
 ============================================
-
 This README contains information about Nexell s5pxx18 series Soc's
 2nd bootloader source. 
 
@@ -40,13 +39,12 @@ File Path : config.mak
 
 Source Tree
 -----------
-.
-©À©¤©¤ src
-©À©¤©¤ prototype
-©À©¤©¤ ©´©¤©¤ base
-©¦   ©»©¤©¤ module
-©À©¤©¤ nsih-generator
-©¸©¤©¤ refernce-nsih
+|--src
+|--prototype
+   base
+   module
+|--nsih-generator
+|--refernce-nsih
  
     
 How to build
